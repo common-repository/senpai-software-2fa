@@ -1,0 +1,30 @@
+#senpai_software_2fa_block{
+    width: 253px;
+    margin-bottom: 20px!important;
+    padding: 8px;
+    border: 1px solid #8c8f94;
+    border-radius: 4px;
+}
+
+#senpai_software_2fa_block label{
+    margin-bottom: 0;
+    display: block;
+}
+
+#senpai_software_2fa_file{
+    display: none;
+}
+
+#senpai_software_2fa_error{
+    display: none;
+    color: red;
+    font-weight: 500;
+}
+
+#keyfile_block{
+    margin-top:40px;
+    margin-bottom:40px;
+    padding:20px;
+    border: 10px solid transparent;
+    border-image: linear-gradient(90deg, #00C9FF 0%, #92FE9D 100%) 20% / 1 / 0 stretch;
+}
